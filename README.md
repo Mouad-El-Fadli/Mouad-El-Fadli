@@ -32,7 +32,7 @@ Hello there! I'm MOUAD EL, a student studying engineering in EST 🇨🇦, origi
 
 I'm always open to new opportunities, projects, or language exchange:
 
-- 💬 Feel free to reach out for discussions on tech, military aviation, or practice English!
+- 💬 Feel free to reach out for discussions on tech, or practice English!
 - ✉️ elfadlimoad@gmail.com
 
 ---
