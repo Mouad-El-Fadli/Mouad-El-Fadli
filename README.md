@@ -3,7 +3,7 @@ Hello there! I'm MOUAD EL, a student studying engineering in EST 🇨🇦, origi
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing a degree in **Engineering** with a focus on **Computer Science & IT**
-- 🌐 Fluent in **Arabic** and **French (France & Quebec)**, continuously improving my **British English**
+- 🌐 Fluent in **Arabic** and **French **, continuously improving my **British English**
 - 🇬🇧 Deeply intrigued by **British culture**, vocabulary, and slang
 - 🔧 Enjoy working with **command-line tools**, **networks (RDP, Eduroam)**, and delving into **OS concepts**
 - 💭 Recently delved into **algorithms**, **pseudocode**, **conditions & loops**, and **base conversions**
@@ -26,7 +26,7 @@ Hello there! I'm MOUAD EL, a student studying engineering in EST 🇨🇦, origi
 
 - 🇲🇦 Fluent in Arabic (Darija)
 - 🇫🇷 ADVANCE in French
-- 🇬🇧 Learning English (UK preferred)
+- 🇬🇧 ADVANCE English (UK preferred)
 
 ## 📫 Reach Out
 
