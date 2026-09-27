@@ -15,10 +15,10 @@
 
 ### 👨‍💻 About Me
 
-Hello there! I'm an engineering student studying at EST Casablanca, originally from Morocco 🇲🇦. I have a strong passion for IT and computer science, always on the lookout for ways to create useful things and enhance my skills.
+Hello there! I'm an engineering student studying at EST sale, originally from Morocco 🇲🇦. I have a strong passion for IT and computer science, always on the lookout for ways to create useful things and enhance my skills.
 
 - 🎓 Currently pursuing a degree in **Engineering** with a focus on **Computer Science & IT**.
-- 🗣️ Fluent in **Arabic** and **French**, and continuously improving my **British English** (deeply intrigued by the culture, vocabulary, and slang!).
+- 🗣️ Fluent in **Arabic** and **French**, and continuously improving my **British English** .
 - 💻 I enjoy working with command-line tools, networks (RDP, Eduroam), and delving into OS concepts.
 - 🧠 Recently diving deep into algorithms, pseudocode, programming logic, and base conversions.
 
