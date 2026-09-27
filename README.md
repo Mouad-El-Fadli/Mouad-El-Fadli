@@ -1,7 +1,7 @@
 <div align="center">
   
 # >_ Hey, I'm Mouad El Fadli
-**Engineering Student | IT & Computer Science Enthusiast**
+** Student  IT & Computer Science Enthusiast**
 
 <br/>
 
