@@ -58,7 +58,7 @@ Hello there! I'm an engineering student studying at EST sale, originally from Mo
 ### 📬 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mouad-el-fadli/">
+  <a href="https://www.linkedin.com/in/mouad-el-fadli-70b729197/">
     <img src="https://img.shields.io/badge/LinkedIn-MOUAD_EL_FADLI-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:elfadlimouad@gmail.com">
